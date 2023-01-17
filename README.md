@@ -69,7 +69,7 @@
 
 ## 🚨 Forking this repo
 <p>
-  It was originally designed by <a href="https://github.com/bchiang7" target="_blank">Brittany Chiang</a> and can be found <a href="https://brittanychiang.com/" target="_blank">here</a>. If you fork this website, **please attribute it** to the <a href="https://brittanychiang.com/" target="_blank">original author</a>.
+  It was originally designed by <a href="https://github.com/bchiang7" target="_blank">Brittany Chiang</a> and can be found <a href="https://brittanychiang.com/" target="_blank">here</a>. If you fork this website, please attribute it to the <a href="https://brittanychiang.com/" target="_blank">original author</a>.
 </p>
 
 ## 🎨 Color Reference
