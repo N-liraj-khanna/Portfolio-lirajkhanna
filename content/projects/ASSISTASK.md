@@ -2,7 +2,8 @@
 date: '15'
 title: 'Assistask'
 github: 'https://github.com/N-liraj-khanna/ASSISTASK'
-external: ''
+external: 'https://github.com/N-liraj-khanna/ASSISTASK'
+# external: ''
 tech:
   - Django 
   - Python 

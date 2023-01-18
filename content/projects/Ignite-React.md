@@ -2,6 +2,7 @@
 date: '20'
 title: 'Ignite React'
 github: 'https://github.com/N-liraj-khanna/Ignite-React'
+external: 'https://github.com/N-liraj-khanna/Ignite-React'
 # external: 'https://libraries.io/npm/cliquiz-millionaire'
 tech:
   - Node JS

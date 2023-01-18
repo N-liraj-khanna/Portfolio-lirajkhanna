@@ -2,7 +2,7 @@
 date: '20'
 title: 'Flight Finder'
 github: 'https://github.com/N-liraj-khanna/FlightFinder-Python-Project'
-external: ''
+external: 'https://github.com/N-liraj-khanna/FlightFinder-Python-Project'
 tech:
   - Python
   - PyQt5

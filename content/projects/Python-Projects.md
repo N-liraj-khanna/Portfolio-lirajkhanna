@@ -2,7 +2,7 @@
 date: '7'
 title: 'Python Projects'
 github: 'https://github.com/N-liraj-khanna/Python-Projects'
-external: ''
+external: 'https://github.com/N-liraj-khanna/Python-Projects'
 tech:
   - Python
   - TKinter

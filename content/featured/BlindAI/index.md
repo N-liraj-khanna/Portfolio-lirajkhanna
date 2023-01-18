@@ -4,7 +4,7 @@ title: 'Blind AI'
 cover: './BlindAI.jpeg'
 # cta: 'https://github.com/N-liraj-khanna/Blind-AI/'
 github: 'https://github.com/N-liraj-khanna/Blind-AI/'
-external: 'http://stripan.pythonanywhere.com/'
+# external: 'http://stripan.pythonanywhere.com/'
 tech:
 - Python 
 - OpenCV

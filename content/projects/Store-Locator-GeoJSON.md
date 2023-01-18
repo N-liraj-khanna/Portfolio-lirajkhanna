@@ -2,7 +2,7 @@
 date: '20'
 title: 'Store Locator GeoJSON'
 github: 'https://github.com/N-liraj-khanna/Store-Locator-GeoJSON'
-# external: 'https://libraries.io/npm/cliquiz-millionaire'
+external: 'https://github.com/N-liraj-khanna/Store-Locator-GeoJSON'
 tech:
 - nodejs
 - express

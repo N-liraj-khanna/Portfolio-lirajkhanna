@@ -2,6 +2,7 @@
 date: '14'
 title: 'Data Structures & Algorithms'
 github: 'https://github.com/N-liraj-khanna/Data-Structures-and-Algorithms'
+external: 'https://github.com/N-liraj-khanna/Data-Structures-and-Algorithms'
 # external: 'https://libraries.io/npm/cliquiz-millionaire'
 tech:
   - C++

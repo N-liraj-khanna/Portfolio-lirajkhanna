@@ -2,7 +2,7 @@
 date: '19'
 title: 'Online Code Editor'
 github: 'https://github.com/N-liraj-khanna/Online-Code-Editor'
-external: ''
+external: 'https://github.com/N-liraj-khanna/Online-Code-Editor'
 tech:
   - Node JS
   - Express JS

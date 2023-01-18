@@ -2,7 +2,7 @@
 date: '13'
 title: 'Machine Learning Recipes'
 github: 'https://github.com/N-liraj-khanna/Machine-Learning-Recipes'
-external: ''
+external: 'https://github.com/N-liraj-khanna/Machine-Learning-Recipes'
 tech:
   - Python
   - Machine Learning

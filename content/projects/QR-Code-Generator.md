@@ -2,7 +2,7 @@
 date: '18'
 title: 'QR Code Generator'
 github: 'https://github.com/N-liraj-khanna/QR-Code-Generator'
-# external: 'https://libraries.io/npm/cliquiz-millionaire'
+external: 'https://github.com/N-liraj-khanna/QR-Code-Generator'
 tech:
 - Node js
 - Express js

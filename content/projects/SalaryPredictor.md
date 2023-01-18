@@ -2,6 +2,7 @@
 date: '20'
 title: 'Salary Predictor'
 github: 'https://github.com/N-liraj-khanna/Salary-Predictor'
+external: 'https://github.com/N-liraj-khanna/Salary-Predictor'
 tech:
   - Python
   - Streamlit

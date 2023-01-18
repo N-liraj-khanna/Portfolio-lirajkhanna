@@ -2,7 +2,7 @@
 date: '3'
 title: 'Live Crypto CLI'
 github: 'https://github.com/N-liraj-khanna/Live-Crypto-CLI'
-external: ''
+external: 'https://github.com/N-liraj-khanna/Live-Crypto-CLI'
 tech:
   - Node JS
   - Express JS

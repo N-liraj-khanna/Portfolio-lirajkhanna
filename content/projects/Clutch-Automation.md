@@ -2,6 +2,7 @@
 date: '20'
 title: 'Clutch Automation'
 github: 'https://github.com/N-liraj-khanna/Clutch-Automation'
+external: 'https://github.com/N-liraj-khanna/Clutch-Automation'
 # external: 'https://libraries.io/npm/cliquiz-millionaire'
 tech:
 - python

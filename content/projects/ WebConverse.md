@@ -2,7 +2,7 @@
 date: '17'
 title: 'Web Converse'
 github: 'https://github.com/N-liraj-khanna/WebConverse'
-# external: 'https://libraries.io/npm/cliquiz-millionaire'
+external: 'https://github.com/N-liraj-khanna/WebConverse'
 tech:
   - Node
   - Javascript

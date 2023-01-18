@@ -2,7 +2,7 @@
 date: '16'
 title: 'Scribble Pad'
 github: 'https://github.com/N-liraj-khanna/Scribble-Pad'
-# external: 'https://libraries.io/npm/cliquiz-millionaire'
+external: 'https://github.com/N-liraj-khanna/Scribble-Pad'
 tech:
 - React JS
 - Node JS

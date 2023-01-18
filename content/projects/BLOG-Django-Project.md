@@ -2,6 +2,7 @@
 date: '20'
 title: 'BLOG Django Project'
 github: 'https://github.com/N-liraj-khanna/BLOG-Django-Project'
+external: 'https://github.com/N-liraj-khanna/BLOG-Django-Project'
 # external: 'https://libraries.io/npm/cliquiz-millionaire'
 tech:
   - Django
