@@ -9,5 +9,5 @@ url: 'https://molog.in/'
 - Significantly reduced development time for API endpoints for supporting the mobile application with the existing web application’s data.
 - Increased user registrations by 27% with additional features for the users for easy access to their data.
 - Improved the application’s performance by 35% from optimizing, refactoring, and removing redundant tasks.
-- **Technology: Node JS, Express JS, Mongo DB, React JS, Digital Ocean**
+- **Technology: Node JS, Express JS, React JS, Mongo DB, EJS, Digital Ocean**
 - [Certificate](https://drive.google.com/file/d/1wwddzc2lQ1w-N4wBt_LAaxdEpESvDc8c/view)

@@ -13919,24 +13919,24 @@ function v(){return(v=Object.assign||function(e){for(var t=1;t<arguments.length;
 /***/ }),
 
 /***/ "react-dom/server":
-/*!**************************************************************************************************!*\
-  !*** external "/Users/lirajkhanna/Downloads/portfolio-v4-main/node_modules/react-dom/server.js" ***!
-  \**************************************************************************************************/
+/*!*************************************************************************************************************!*\
+  !*** external "/Users/lirajkhanna/Desktop/Data/Resume/Personal Portfolio/node_modules/react-dom/server.js" ***!
+  \*************************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/lirajkhanna/Downloads/portfolio-v4-main/node_modules/react-dom/server.js");;
+module.exports = require("/Users/lirajkhanna/Desktop/Data/Resume/Personal Portfolio/node_modules/react-dom/server.js");;
 
 /***/ }),
 
 /***/ "react":
-/*!*********************************************************************************************!*\
-  !*** external "/Users/lirajkhanna/Downloads/portfolio-v4-main/node_modules/react/index.js" ***!
-  \*********************************************************************************************/
+/*!********************************************************************************************************!*\
+  !*** external "/Users/lirajkhanna/Desktop/Data/Resume/Personal Portfolio/node_modules/react/index.js" ***!
+  \********************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/lirajkhanna/Downloads/portfolio-v4-main/node_modules/react/index.js");;
+module.exports = require("/Users/lirajkhanna/Desktop/Data/Resume/Personal Portfolio/node_modules/react/index.js");;
 
 /***/ }),
 

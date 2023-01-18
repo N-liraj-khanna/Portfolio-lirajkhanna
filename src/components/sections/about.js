@@ -130,12 +130,12 @@ const About = () => {
     'JavaScript',
     'C++',
     'Node JS',
-    'Java',
-    'React JS',
-    'MySQL',
-    'Mongo DB',
     'ML Tools',
-    'HTML/CSS/Bootstrap'
+    'React JS',
+    'Java',
+    'Mongo DB',
+    'HTML/CSS',
+    'MySQL'
   ];
 
   return (
