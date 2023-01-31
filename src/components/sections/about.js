@@ -145,18 +145,18 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
+            <p align="justify">
               Hello! My name is Liraj and I love crafting stuff for the internet. My interest in
               software started back when I used to sneak into my brother's room to use his laptop
               for games and stuff, then it triggered. I love technology!
             </p>
-            <p>
+            <p align="justify">
               I was crazy about tech to get to know it better. Finally, I got my laptop during my
               first year, and ever since with the mindset of "Why just know them? Let's make them!",
               I started working on software as my first step to getting to explore all about
               technology.
             </p>
-            <p>
+            <p align="justify">
               I am doing my masters from{' '}
               <a href="https://vit.ac.in/" target="_blank" rel="noreferrer">
                 Vellore Institute of Technology
@@ -171,7 +171,7 @@ const About = () => {
               </a>{' '}
               if you would like to collaborate on any project.
             </p>
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p align="justify">Here are a few technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">

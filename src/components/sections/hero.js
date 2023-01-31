@@ -63,7 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I craft apps for the web.</h3>;
   const four = (
     <>
-      <p>
+      <p align="justify">
       I'm a self-educated full-stack web developer, and I've had plenty of practical 
       experience building real-world projects of my own and a few collaborated projects. 
       Currently, I'm focused on Machine Learning, to integrate with my web applications to 

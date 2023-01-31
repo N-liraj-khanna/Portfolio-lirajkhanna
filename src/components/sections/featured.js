@@ -370,6 +370,7 @@ const Featured = () => {
 
                     <div
                       className="project-description"
+                      align="justify" 
                       dangerouslySetInnerHTML={{ __html: html }}
                     />
 

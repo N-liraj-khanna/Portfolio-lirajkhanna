@@ -17,4 +17,4 @@ ios: ''
 android: ''
 ---
 
-Random DSA problems with Brute Force, Naive, Better and all optimal Solutions using Data Structures & Algorithms from various platforms like Leetcode, GeekforGeeks, Hackerrank, Hackerearth, InterviewBit, etc...(My Placement Preparation) 
+Random DSA problems with Brute Force, Naive, Better and all optimal Solutions using Data Structures & Algorithms from various platforms like Leetcode, GFG, Hackerrank, Hackerearth, InterviewBit, etc...(My Placement Preparation) 

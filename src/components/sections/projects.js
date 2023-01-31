@@ -247,7 +247,7 @@ const Projects = () => {
             </a>
           </h3>
 
-          <div className="project-description" dangerouslySetInnerHTML={{ __html: html }} />
+          <div className="project-description" align="justify"  dangerouslySetInnerHTML={{ __html: html }} />
         </header>
 
         <footer>

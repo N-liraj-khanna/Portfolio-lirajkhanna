@@ -6,7 +6,6 @@ location: 'Remote'
 range: 'Sep - Oct 2021'
 url: 'https://thesalespen.com/'
 ---
-
 - Conducted keyword research and on-page optimization which increased organic traffic by 12%.
 - Monitored and reported on website traffic, rankings, and conversions using Google Analytics.
 - Created two effective infographics and a few other visual elements that enhanced website engagement and page views by 23%.
