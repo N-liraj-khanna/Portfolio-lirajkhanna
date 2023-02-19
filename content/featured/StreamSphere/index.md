@@ -6,6 +6,7 @@ github: 'https://github.com/N-liraj-khanna/StreamSphere'
 # external: 'https://allysoncaragency.herokuapp.com/'
 tech:
   - MERN Stack
+  - Firebase
 ---
 
 
