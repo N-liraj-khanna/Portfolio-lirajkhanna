@@ -135,7 +135,9 @@ const About = () => {
     'Java',
     'Mongo DB',
     'HTML/CSS',
-    'MySQL'
+    'MySQL',
+    'Beautiful Soup',
+    'Selenium'
   ];
 
   return (
